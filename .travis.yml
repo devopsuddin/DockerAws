@@ -4,7 +4,7 @@ services:
 
 
 before_install:
- - docker build -t skuddin/Affu -f Dockerfile.dev . 
+ - docker build -t skuddin/affu -f Dockerfile.dev . 
 
 
 script:
