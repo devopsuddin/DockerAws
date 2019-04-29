@@ -8,4 +8,4 @@ before_install:
 
 
 script:
- - docker run skuddin/Affu npm run test -- --coverage
+ - docker run skuddin/affu npm run test -- --coverage
